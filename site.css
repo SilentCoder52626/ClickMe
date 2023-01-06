@@ -1,0 +1,15 @@
+.center {
+    display: grid;
+    justify-content: center;
+  }
+  .center #image-container {
+    height: 200px;
+    width: 200px;
+  }
+  #yes-btn{
+    position: relative;
+    left: 50%;
+  }
+  #no-btn{
+    position: relative;
+  }
